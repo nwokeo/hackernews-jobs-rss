@@ -1,0 +1,7 @@
+{
+  "name": "hackernews-jobs-rss",
+  "version": "1.0.0",
+  "dependencies": {
+    "divshot-cli": "^1.10.5"
+  }
+}

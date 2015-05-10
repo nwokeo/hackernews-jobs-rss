@@ -1,6 +1,0 @@
-{
-  "name": "hackernews-jobs-rss",
-  "root": "public",
-  "clean_urls": false,
-  "error_page": "error.html"
-}
